@@ -1,4 +1,6 @@
 
+
+
 public class Teacher extends Human {
 	private String name;//immutable
 	

@@ -9,7 +9,7 @@ public class Human {
 	public void setAge(byte age) {
 		this.age = age;
 	}
-	
+ 	
 	public String getName() {
 		return name;
 		}

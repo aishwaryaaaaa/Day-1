@@ -8,7 +8,7 @@ void study() {
 	System.out.println(getName()+"is studying");
 }
 
-
+ 
 
 Student(){
 	//default constructor

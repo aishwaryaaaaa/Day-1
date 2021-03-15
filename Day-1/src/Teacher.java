@@ -9,7 +9,7 @@ public class Teacher extends Human {
 	
 	public Teacher(String name) {
 		setName(name);
-		// TODO Auto-generated constructor stub
+ 		// TODO Auto-generated constructor stub
 	}
 
 	

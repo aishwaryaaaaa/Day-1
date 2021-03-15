@@ -9,7 +9,7 @@ public class AccessModifiers {
 class A{
 	protected int age=0;
 	
-} 
+}  
 class B extends A{
 	
 }

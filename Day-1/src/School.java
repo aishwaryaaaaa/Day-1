@@ -7,7 +7,7 @@ public class School {
     	 {Teacher teacher = new Teacher("Shyam"+i);
     	 }		
      //int i=0;
-    	 //while(int i<10)
+     	 //while(int i<10)
     	// { Teacher teacher = new Teacher("Shyam"+i);
     	 //i++;
     	 //}
